@@ -1,0 +1,6 @@
+name: AfkDiscordAlert
+version: 0.1
+main: zerrium.AfkDiscordAlert
+api-version: 1.13
+author: zerrium
+depend: [Essentials, DiscordSRV]
